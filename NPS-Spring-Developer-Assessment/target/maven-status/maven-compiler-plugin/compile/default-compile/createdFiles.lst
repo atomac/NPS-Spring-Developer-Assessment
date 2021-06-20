@@ -1,0 +1,8 @@
+com\nps\devassessment\DevAssessmentApplication.class
+com\nps\devassessment\service\WorkflowRepoService.class
+com\nps\devassessment\controller\TestsController.class
+com\nps\devassessment\service\impl\WorkflowRepoServiceImpl.class
+com\nps\devassessment\controller\WorkflowController.class
+com\nps\devassessment\repo\WorkflowRepo.class
+com\nps\devassessment\entity\WorkflowEntity.class
+com\nps\devassessment\model\placement.class
